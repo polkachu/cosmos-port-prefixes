@@ -20,6 +20,7 @@
 | Althea        | 124         |
 | Osmosis       | 125         |
 | Juno          | 126         |
+| Nomic         | 127         |
 | Akash         | 128         |
 | Chihuahua     | 129         |
 | Bitcanna      | 130         |
