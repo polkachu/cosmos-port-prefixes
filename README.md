@@ -43,7 +43,7 @@
 | Meme          | 147         |
 | Galaxy        | 148         |
 | Cosmos        | 149         |
-|               | 150         |
+| Androma       | 150         |
 | Axelar        | 151         |
 | Fetch         | 152         |
 | Nym           | 153         |
