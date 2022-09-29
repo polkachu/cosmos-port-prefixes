@@ -47,7 +47,7 @@
 | Axelar        | 151         |
 | Fetch         | 152         |
 | Nym           | 153         |
-|               | 154         |
+| Persistence   | 154         |
 | Canto         | 155         |
 | Passage       | 156         |
 | Craft         | 157         |
