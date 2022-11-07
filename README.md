@@ -72,3 +72,5 @@
 | Okp4          | 176         |
 | Saage         | 177         |
 | loyal         | 178         |
+| ICS Apollo    | 179         |
+| ICS Sputnik   | 180         |
