@@ -79,3 +79,10 @@
 | Joe           | 183         |
 | Humans        | 184         |
 | Mars          | 185         |
+| ICS Curly     | 186         |
+| ICS Gopher    | 187         |
+| ICS Hero      | 188         |
+| ICS Larry     | 189         |
+| ICS Moe       | 190         |
+| ICS Neutron   | 191         |
+| ICS Slasher   | 192         |
