@@ -86,3 +86,4 @@
 | ICS Moe       | 190         |
 | ICS Neutron   | 191         |
 | ICS Slasher   | 192         |
+| Alliance      | 193         |
