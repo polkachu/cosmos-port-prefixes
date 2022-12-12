@@ -87,3 +87,5 @@
 | ICS Neutron   | 191         |
 | ICS Slasher   | 192         |
 | Alliance      | 193         |
+| Pylons        | 194         |
+
