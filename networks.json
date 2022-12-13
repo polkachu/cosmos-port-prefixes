@@ -84,5 +84,6 @@
   "neutron": 191,
   "slasher": 192,
   "alliance": 193,
-  "pylons": 194
+  "pylons": 194,
+  "heimdall": 195
 }
