@@ -1,7 +1,5 @@
 # cosmos-port-prefixes
 
-This is a test.
-
 | Network       | Port Prefix |
 | ------------- | ----------- |
 | Hypersign     | 109         |
