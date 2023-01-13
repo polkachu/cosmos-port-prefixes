@@ -93,3 +93,4 @@
 | Nolus         | 197         |
 | Nibiru        | 198         |
 | Lava          | 199         |
+| Namada        | 200         |
