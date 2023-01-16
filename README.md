@@ -94,3 +94,4 @@
 | Nibiru        | 198         |
 | Lava          | 199         |
 | Namada        | 200         |
+| XPLA          | 201         |
