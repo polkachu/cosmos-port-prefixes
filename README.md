@@ -95,3 +95,4 @@
 | Lava          | 199         |
 | Namada        | 200         |
 | XPLA          | 201         |
+| Crypto.com    | 202         |
