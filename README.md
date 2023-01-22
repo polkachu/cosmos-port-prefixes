@@ -96,3 +96,4 @@
 | Namada        | 200         |
 | XPLA          | 201         |
 | Crypto.com    | 202         |
+| Planq         | 203         |
