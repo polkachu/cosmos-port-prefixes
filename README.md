@@ -105,3 +105,5 @@
 | Alliance corrino   | 209         |
 | Alliance harkonnen | 210         |
 | Alliance atreides  | 211         |
+| Andromeda          | 212         |
+
