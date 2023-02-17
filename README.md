@@ -100,7 +100,7 @@
 | Uptick             | 204         |
 | Dymension          | 205         |
 | Babylon            | 206         |
-| Whitewhale         | 207         |
+| Migaloo            | 207         |
 | Alliance ordos     | 208         |
 | Alliance corrino   | 209         |
 | Alliance harkonnen | 210         |
