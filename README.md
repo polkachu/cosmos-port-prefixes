@@ -108,4 +108,4 @@ Note: Please do not use 266 as port prefix because this is the default
 | Alliance harkonnen  | 210         |
 | Alliance atreides   | 211         |
 | Andromeda           | 212         |
-| 8ball               | 213         |
+| eightball           | 213         |
