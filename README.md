@@ -110,3 +110,4 @@ Note: Please do not use 266 as port prefix because this is the default
 | Andromeda           | 212         |
 | eightball           | 213         |
 | BlockX              | 214         |
+| Noble               | 215         |
