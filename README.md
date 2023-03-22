@@ -112,3 +112,4 @@ Note: Please do not use 266 as port prefix because this is the default
 | BlockX              | 214         |
 | Noble               | 215         |
 | Ojo                 | 216         |
+| Aura                | 217         |
