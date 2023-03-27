@@ -2,9 +2,9 @@
 
 ## Rationale
 
-Node operators in the Cosmos ecosystem often wants to run multiple CosmosSDK-based nodes on the sames server to save cost.
+Node operators in the Cosmos ecosystem often wants to run multiple Cosmos SDK-based nodes on the sames server to save cost.
 
-The CosmosSDK `init` command will generate `config.toml` and `app.toml` for each node. Without revision, the ports in these files will conflict with each other if multiple nodes are ran on the same server.
+The Cosmos SDK `init` command will generate `config.toml` and `app.toml` for each node. Without revision, the ports in these files will conflict with each other if multiple nodes are ran on the same server.
 
 This project is an attempt to standardize these ports while avoiding port conflict. While any random non-conflicting ports can do, a standardized port prefix system can make the port assignment more predictable. Moreover, if two node operators follow the same system, they can easily exchange deployment scripts without breaking codes.
 
