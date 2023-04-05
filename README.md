@@ -143,7 +143,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Noble               | 215         |
 | Ojo                 | 216         |
 | Aura                | 217         |
-| Stratos             | 208         |
+| Stratos             | 218         |
 
 ## JSON API
 
