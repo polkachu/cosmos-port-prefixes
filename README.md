@@ -16,7 +16,7 @@ You can also change these 9 ports (5 in config.toml and 4 in app.toml) manually.
 
 ```yaml
 config.toml:
-  'laddr = "tcp://0.0.0.0:26656"': 'laddr = "tcp://0.0.0.0:{{ custom_port_prefix }}56"' # also use this port for external_address 
+  'laddr = "tcp://0.0.0.0:26656"': 'laddr = "tcp://0.0.0.0:{{ custom_port_prefix }}56"' # also use this port for external_address
   'laddr = "tcp://127.0.0.1:26657"': 'laddr = "tcp://0.0.0.0:{{ custom_port_prefix }}57"'
   'proxy_app = "tcp://127.0.0.1:26658"': 'proxy_app = "tcp://127.0.0.1:{{ custom_port_prefix }}58"'
   'prometheus_listen_addr = ":26660"': 'prometheus_listen_addr = ":{{ custom_port_prefix }}61"'
@@ -143,6 +143,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Noble               | 215         |
 | Ojo                 | 216         |
 | Aura                | 217         |
+| Stratos             | 208         |
 
 ## JSON API
 
