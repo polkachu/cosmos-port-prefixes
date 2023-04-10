@@ -145,6 +145,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Aura                | 217         |
 | Stratos             | 218         |
 | Penumbra            | 219         |
+| Elys                | 220         |
 
 ## JSON API
 
