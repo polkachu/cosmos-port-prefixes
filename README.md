@@ -144,6 +144,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Ojo                 | 216         |
 | Aura                | 217         |
 | Stratos             | 218         |
+| Penumbra            | 219         |
 
 ## JSON API
 
