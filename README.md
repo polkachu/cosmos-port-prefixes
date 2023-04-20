@@ -147,6 +147,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Penumbra            | 219         |
 | Elys                | 220         |
 | Noria               | 221         |
+| Composable          | 222         |
 
 ## JSON API
 
