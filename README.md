@@ -148,6 +148,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Elys                | 220         |
 | Noria               | 221         |
 | Composable          | 222         |
+| Burnt               | 223         |
 
 ## JSON API
 
