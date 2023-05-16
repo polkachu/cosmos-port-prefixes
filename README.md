@@ -150,6 +150,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Composable          | 222         |
 | Xion                | 223         |
 | TENET               | 224         |
+| Zetachain           | 225         |
 
 ## JSON API
 
