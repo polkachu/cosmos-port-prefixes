@@ -149,6 +149,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Noria               | 221         |
 | Composable          | 222         |
 | Xion                | 223         |
+| TENET               | 224         |
 
 ## JSON API
 
