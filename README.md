@@ -151,6 +151,8 @@ Note: Please do not use 266 as port prefix because this is the default
 | Xion                | 223         |
 | TENET               | 224         |
 | Zetachain           | 225         |
+| IRISnet             | 226         |
+| Regen               | 227         |
 
 ## JSON API
 
