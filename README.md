@@ -153,6 +153,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Zetachain           | 225         |
 | IRISnet             | 226         |
 | Regen               | 227         |
+| Arkeo               | 228         |
 
 ## JSON API
 
