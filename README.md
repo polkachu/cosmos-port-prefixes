@@ -155,6 +155,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Regen               | 227         |
 | Arkeo               | 228         |
 | Band                | 229         |
+| Vega                | 230         |
 
 ## JSON API
 
