@@ -157,6 +157,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Band                | 229         |
 | Vega                | 230         |
 | Duality             | 231         |
+| UnUniFi             | 232         |
 
 ## JSON API
 
