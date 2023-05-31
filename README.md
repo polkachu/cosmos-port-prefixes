@@ -156,6 +156,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Arkeo               | 228         |
 | Band                | 229         |
 | Vega                | 230         |
+| Duality             | 231         |
 
 ## JSON API
 
