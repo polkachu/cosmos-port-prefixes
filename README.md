@@ -158,6 +158,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Vega                | 230         |
 | Duality             | 231         |
 | UnUniFi             | 232         |
+| Orai                | 233         |
 
 ## JSON API
 
