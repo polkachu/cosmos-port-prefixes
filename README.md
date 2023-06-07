@@ -159,6 +159,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Duality             | 231         |
 | UnUniFi             | 232         |
 | Orai                | 233         |
+| Decentr             | 234         |
 
 ## JSON API
 
