@@ -161,6 +161,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Orai                | 233         |
 | Decentr             | 234         |
 | Qwoyn               | 235         |
+| Cronos              | 236         |
 
 ## JSON API
 
