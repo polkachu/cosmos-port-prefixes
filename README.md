@@ -162,6 +162,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Decentr             | 234         |
 | Qwoyn               | 235         |
 | Cronos              | 236         |
+| Router              | 237         |
 
 ## JSON API
 
