@@ -163,7 +163,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Qwoyn               | 235         |
 | Cronos              | 236         |
 | Router              | 237         |
-| Ddyx                | 238         |
+| Dydx                | 238         |
 
 ## JSON API
 
