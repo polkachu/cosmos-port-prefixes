@@ -164,6 +164,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Cronos              | 236         |
 | Router              | 237         |
 | Dydx                | 238         |
+| Sentinel            | 239         |
 
 ## JSON API
 
