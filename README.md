@@ -165,6 +165,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Router              | 237         |
 | Dydx                | 238         |
 | Sentinel            | 239         |
+| Haqq                | 240         |
 
 ## JSON API
 
