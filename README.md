@@ -166,6 +166,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Dydx                | 238         |
 | Sentinel            | 239         |
 | Haqq                | 240         |
+| Temporal            | 241         |
 
 ## JSON API
 
