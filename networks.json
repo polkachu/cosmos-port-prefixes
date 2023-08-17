@@ -130,5 +130,6 @@
   "router": 237,
   "dydx": 238,
   "sentinel": 239,
-  "haqq": 240
+  "haqq": 240,
+  "temporal": 241
 }
