@@ -102,7 +102,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Empower             | 174         |
 | Jackal              | 175         |
 | Okp4                | 176         |
-| Saage               | 177         |
+| SGE Network         | 177         |
 | loyal               | 178         |
 | ICS Apollo          | 179         |
 | ICS Sputnik         | 180         |
