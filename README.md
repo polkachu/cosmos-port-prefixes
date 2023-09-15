@@ -168,6 +168,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Haqq                | 240         |
 | Temporal            | 241         |
 | Functionx           | 242         |
+| Selfchain           | 243         |
 
 ## JSON API
 
