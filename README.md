@@ -169,6 +169,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Temporal            | 241         |
 | Functionx           | 242         |
 | Selfchain           | 243         |
+| Coreum              | 244         |
 
 ## JSON API
 
