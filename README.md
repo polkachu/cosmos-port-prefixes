@@ -170,6 +170,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Functionx           | 242         |
 | Selfchain           | 243         |
 | Coreum              | 244         |
+| Stafi Hub           | 245         |
 
 ## JSON API
 
