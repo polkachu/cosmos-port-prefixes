@@ -171,6 +171,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Selfchain           | 243         |
 | Coreum              | 244         |
 | Stafi Hub           | 245         |
+| Union               | 246         |
 
 ## JSON API
 
