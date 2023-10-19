@@ -173,6 +173,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Stafi Hub           | 245         |
 | Union               | 246         |
 | Fairyring           | 247         |
+| Pryzm               | 248         |
 
 ## JSON API
 
