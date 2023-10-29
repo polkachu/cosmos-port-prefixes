@@ -175,6 +175,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Fairyring           | 247         |
 | Pryzm               | 248         |
 | Saga                | 249         |
+| SwapLand            | 250         |
 
 ## JSON API
 
