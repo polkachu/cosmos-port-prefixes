@@ -178,6 +178,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | SwapLand            | 250         |
 | Matra               | 251         |
 | Soarchain           | 252         |
+| Dora                | 253         |
 
 ## JSON API
 
