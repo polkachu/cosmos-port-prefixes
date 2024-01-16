@@ -145,5 +145,6 @@
   "soarchain": 252,
   "dora": 253,
   "berachain": 254,
-  "aether": 255
+  "aether": 255,
+  "terra": 256
 }
