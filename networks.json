@@ -146,5 +146,6 @@
   "dora": 253,
   "berachain": 254,
   "aether": 255,
-  "terra": 256
+  "terra": 256,
+  "RESERVED": 266
 }
