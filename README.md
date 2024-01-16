@@ -180,6 +180,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Soarchain           | 252         |
 | Dora                | 253         |
 | Berachain           | 254         |
+| Aether              | 255         |
 
 ## JSON API
 
