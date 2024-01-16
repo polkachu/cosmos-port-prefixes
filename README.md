@@ -181,6 +181,8 @@ Note: Please do not use 266 as port prefix because this is the default
 | Dora                | 253         |
 | Berachain           | 254         |
 | Aether              | 255         |
+| Terra Classic       | 256         |
+| RESERVED            | 266         |
 
 ## JSON API
 
