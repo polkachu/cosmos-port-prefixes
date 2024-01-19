@@ -182,6 +182,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Berachain           | 254         |
 | Aether              | 255         |
 | Terra Classic       | 256         |
+| iykyk               | 257         |
 | RESERVED            | 266         |
 
 ## JSON API
