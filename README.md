@@ -183,6 +183,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Aether              | 255         |
 | Terra Classic       | 256         |
 | iykyk               | 257         |
+| SEDA                | 258         |
 | RESERVED            | 266         |
 
 ## JSON API
