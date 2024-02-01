@@ -184,6 +184,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Terra Classic       | 256         |
 | iykyk               | 257         |
 | SEDA                | 258         |
+| Wormhole            | 259         |
 | RESERVED            | 266         |
 
 ## JSON API
