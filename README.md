@@ -185,6 +185,9 @@ Note: Please do not use 266 as port prefix because this is the default
 | iykyk               | 257         |
 | SEDA                | 258         |
 | Wormhole            | 259         |
+|                     | 260         |
+| Pundix              | 261         |
+| Rizon               | 262         |
 | RESERVED            | 266         |
 
 ## JSON API
