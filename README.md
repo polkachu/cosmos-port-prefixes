@@ -189,6 +189,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Pundix              | 261         |
 | Rizon               | 262         |
 | Side Protocol       | 263         |
+| Swisstronik         | 264         |
 | RESERVED            | 266         |
 
 ## JSON API
