@@ -195,6 +195,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Allora              | 267         |
 | Hedgeblock          | 268         |
 | Furya               | 269         |
+| Provenance          | 270         |
 
 ## JSON API
 
