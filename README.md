@@ -182,7 +182,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Berachain           | 254         |
 | Aether              | 255         |
 | Terra Classic       | 256         |
-| iykyk               | 257         |
+| Initia              | 257         |
 | SEDA                | 258         |
 | Wormhole            | 259         |
 | Cross Finance       | 260         |
@@ -192,6 +192,9 @@ Note: Please do not use 266 as port prefix because this is the default
 | Swisstronik         | 264         |
 | GovGen              | 265         |
 | RESERVED            | 266         |
+| Allora              | 267         |
+| Hedgeblock          | 268         |
+| Furya               | 269         |
 
 ## JSON API
 
