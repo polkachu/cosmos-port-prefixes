@@ -192,7 +192,6 @@ Note: Please do not use 266 as port prefix because this is the default
 | Swisstronik         | 264         |
 | GovGen              | 265         |
 | RESERVED            | 266         |
-| Initia              | 267         |
 
 ## JSON API
 
