@@ -197,6 +197,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Furya               | 269         |
 | Provenance          | 270         |
 | UNDISCLOSED         | 271         |
+| Chain4Energy        | 272         |
 
 ## JSON API
 
