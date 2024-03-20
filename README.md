@@ -198,6 +198,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Provenance          | 270         |
 | UNDISCLOSED         | 271         |
 | Chain4Energy        | 272         |
+| Warden              | 273         |
 
 ## JSON API
 
