@@ -199,6 +199,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | UNDISCLOSED         | 271         |
 | Chain4Energy        | 272         |
 | Warden              | 273         |
+| Galactica           | 274         |
 
 ## JSON API
 
