@@ -111,13 +111,13 @@ Note: Please do not use 266 as port prefix because this is the default
 | Joe                 | 183         |
 | Humans              | 184         |
 | Mars                | 185         |
-| ICS Curly           | 186         |
-| ICS Gopher          | 187         |
-| ICS Hero            | 188         |
-| ICS Larry           | 189         |
-| ICS Moe             | 190         |
-| ICS Neutron         | 191         |
-| ICS Slasher         | 192         |
+| interchain          | 186         |
+| ICS RESERVED 2      | 187         |
+| ICS RESERVED 3      | 188         |
+| ICS RESERVED 4      | 189         |
+| ICS RESERVED 5      | 190         |
+| ICS RESERVED 6      | 191         |
+| ICS RESERVED 7      | 192         |
 | Alliance            | 193         |
 | Pylons              | 194         |
 | Heimdall            | 195         |
