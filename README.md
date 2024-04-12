@@ -112,7 +112,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Humans              | 184         |
 | Mars                | 185         |
 | interchain          | 186         |
-| ICS RESERVED 2      | 187         |
+| interchain_topn_one | 187         |
 | ICS RESERVED 3      | 188         |
 | ICS RESERVED 4      | 189         |
 | ICS RESERVED 5      | 190         |
