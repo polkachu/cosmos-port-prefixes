@@ -200,6 +200,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Chain4Energy        | 272         |
 | Warden              | 273         |
 | Galactica           | 274         |
+| AlignLayer          | 275         |
 
 ## JSON API
 
