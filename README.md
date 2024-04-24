@@ -201,6 +201,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Warden              | 273         |
 | Galactica           | 274         |
 | AlignedLayer        | 275         |
+| Kopi                | 276         |
 
 ## JSON API
 
