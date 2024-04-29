@@ -203,6 +203,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | AlignedLayer        | 275         |
 | Kopi                | 276         |
 | Ethos               | 277         |
+| Artela              | 278         |
 
 ## JSON API
 
