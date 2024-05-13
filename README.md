@@ -205,6 +205,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Ethos               | 277         |
 | Artela              | 278         |
 | Synternet           | 279         |
+| CosmosTheta         | 280         |
 
 ## JSON API
 
