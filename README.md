@@ -204,6 +204,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Kopi                | 276         |
 | Ethos               | 277         |
 | Artela              | 278         |
+| Synternet           | 279         |
 
 ## JSON API
 
