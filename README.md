@@ -207,6 +207,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Synternet           | 279         |
 | CosmosTheta         | 280         |
 | Nillion             | 281         |
+| dHealth             | 282         |
 
 ## JSON API
 
