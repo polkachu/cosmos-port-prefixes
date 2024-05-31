@@ -209,6 +209,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Nillion             | 281         |
 | dHealth             | 282         |
 | Sunrise             | 283         |
+| OG Network          | 284         |
 
 ## JSON API
 
