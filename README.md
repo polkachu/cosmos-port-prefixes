@@ -210,6 +210,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | dHealth             | 282         |
 | Sunrise             | 283         |
 | OG Network          | 284         |
+| Settlus             | 285         |
 
 ## JSON API
 
