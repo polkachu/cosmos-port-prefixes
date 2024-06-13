@@ -34,6 +34,7 @@ Note: Please do not use 266 as port prefix because this is the default
 
 | Network             | Port Prefix |
 | ------------------- | ----------- |
+| Test                | 100         |
 | Hypersign           | 109         |
 | Kyve                | 110         |
 | Quicksilver         | 111         |
