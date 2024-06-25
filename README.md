@@ -212,6 +212,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Sunrise             | 283         |
 | OG Network          | 284         |
 | Settlus             | 285         |
+| Shido               | 286         |
 
 ## JSON API
 
