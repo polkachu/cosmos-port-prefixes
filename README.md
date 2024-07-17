@@ -213,6 +213,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | OG Network          | 284         |
 | Settlus             | 285         |
 | Shido               | 286         |
+| Int3face            | 287         |
 
 ## JSON API
 
