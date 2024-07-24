@@ -214,6 +214,10 @@ Note: Please do not use 266 as port prefix because this is the default
 | Settlus             | 285         |
 | Shido               | 286         |
 | Int3face            | 287         |
+| Fiamma              | 288         |
+| Titan               | 289         |
+| Empe                | 290         |
+| Symphony            | 291         |
 
 ## JSON API
 
