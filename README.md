@@ -219,7 +219,6 @@ Note: Please do not use 266 as port prefix because this is the default
 | Empe                | 290         |
 | Symphony            | 291         |
 | Story               | 292         |
-| Story               | 292         |
 | Laconic             | 293         |
 
 ## JSON API
