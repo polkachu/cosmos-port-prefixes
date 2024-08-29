@@ -220,6 +220,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Symphony            | 291         |
 | Story               | 292         |
 | Laconic             | 293         |
+| Symbiotic           | 294         |
 
 ## JSON API
 
