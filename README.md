@@ -224,6 +224,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Zenrock             | 295         |
 | Zenrock             | 295         |
 | Fuel                | 296         |
+| Tabi                | 297         |
 
 ## JSON API
 
