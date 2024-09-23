@@ -222,6 +222,8 @@ Note: Please do not use 266 as port prefix because this is the default
 | Laconic             | 293         |
 | Symbiotic           | 294         |
 | Zenrock             | 295         |
+| Zenrock             | 295         |
+| Fuel                | 296         |
 
 ## JSON API
 
