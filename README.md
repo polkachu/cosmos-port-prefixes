@@ -78,7 +78,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Cosmos              | 149         |
 | Androma             | 150         |
 | Axelar              | 151         |
-| Fetch               | 152         |
+| FetchHub            | 152         |
 | Nym                 | 153         |
 | Persistence         | 154         |
 | Canto               | 155         |
