@@ -226,6 +226,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Fuel                | 296         |
 | Tabi                | 297         |
 | Prysm               | 298         |
+| AtomOne             | 299         |
 
 ## JSON API
 
