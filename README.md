@@ -229,6 +229,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | AtomOne             | 299         |
 | AtomOne             | 299         |
 | XRP                 | 300         |
+| Pell                | 301         |
 
 ## JSON API
 
