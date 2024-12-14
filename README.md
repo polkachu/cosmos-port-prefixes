@@ -230,6 +230,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Pell                | 301         |
 | Mezo                | 302         |
 | Aaron               | 303         |
+| Echos               | 304         |
 
 ## JSON API
 
