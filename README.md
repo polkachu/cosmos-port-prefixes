@@ -231,7 +231,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Mezo                | 302         |
 | Aaron               | 303         |
 | Echos               | 304         |
-| Medasdigitaal       | 305         |
+| Medasdigital        | 305         |
 | Native Network      | 306         |
 
 ## JSON API
