@@ -235,6 +235,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Native Network      | 306         |
 | ....                |             |
 | Initia Yominet      | 400         |
+| Initia Civitia      | 401         |
 
 ## JSON API
 
