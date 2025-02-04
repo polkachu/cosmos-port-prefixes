@@ -233,6 +233,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Echos               | 304         |
 | Medas Digital       | 305         |
 | Native Network      | 306         |
+| Lumera              | 307         |
 | ....                |             |
 | Initia Yominet      | 400         |
 | Initia Civitia      | 401         |
