@@ -234,6 +234,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Medas Digital       | 305         |
 | Native Network      | 306         |
 | Lumera              | 307         |
+| Sphinx              | 308         | 
 | ....                |             |
 | Initia Yominet      | 400         |
 | Initia Civitia      | 401         |
