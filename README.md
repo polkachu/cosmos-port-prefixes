@@ -236,6 +236,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Lumera              | 307         |
 | Sphinx              | 308         |
 | Medibloc            | 309         |
+| Likecoin            | 310.        |
 | ....                |             |
 | Initia Yominet      | 400         |
 | Initia Civitia      | 401         |
