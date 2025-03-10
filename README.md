@@ -237,6 +237,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Sphinx              | 308         |
 | Medibloc            | 309         |
 | Likecoin            | 310         |
+| Intento             | 311         |
 | ....                |             |
 | Initia Yominet      | 400         |
 | Initia Civitia      | 401         |
