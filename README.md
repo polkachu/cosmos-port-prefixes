@@ -245,6 +245,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Torram              | 316         |
 | Airchains           | 317         |
 | Hippo               | 318         |
+| Milkyway            | 319         |
 | ....                |             |
 | Initia Yominet      | 400         |
 | Initia Civitia      | 401         |
