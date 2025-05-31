@@ -250,6 +250,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Tac                 | 321         |
 | Qubetics            | 322         |
 | BounceBit           | 323         |
+| LayerEdge           | 324         |
 | ....                |             |
 | Initia Yominet      | 400         |
 | Initia Civitia      | 401         |
