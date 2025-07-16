@@ -252,6 +252,8 @@ Note: Please do not use 266 as port prefix because this is the default
 | BounceBit           | 323         |
 | LayerEdge           | 324         |
 | Gnoland             | 325         |
+| Xos                 | 326         |
+| Safrochain          | 327         |
 | ....                |             |
 | Initia Yominet      | 400         |
 | Initia Civitia      | 401         |
