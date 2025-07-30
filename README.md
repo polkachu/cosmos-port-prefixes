@@ -254,6 +254,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Gnoland             | 325         |
 | Xos                 | 326         |
 | Safrochain          | 327         |
+| Zigchain            | 328         |
 | ....                |             |
 | Initia Yominet      | 400         |
 | Initia Civitia      | 401         |
