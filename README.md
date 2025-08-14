@@ -255,6 +255,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Xos                 | 326         |
 | Safrochain          | 327         |
 | Zigchain            | 328         |
+| BitBadges           | 329         |
 | ....                |             |
 | Initia Yominet      | 400         |
 | Initia Civitia      | 401         |
