@@ -257,6 +257,8 @@ Note: Please do not use 266 as port prefix because this is the default
 | Zigchain            | 328         |
 | BitBadges           | 329         |
 | Push Chain          | 330         |
+| Republic            | 331         |
+| Interval            | 332         |
 | ....                |             |
 | Initia Yominet      | 400         |
 | Initia Civitia      | 401         |
