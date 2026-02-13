@@ -259,6 +259,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Push Chain          | 330         |
 | Republic            | 331         |
 | Interval            | 332         |
+| Blocked             | 333         |
 | ....                |             |
 | Initia Yominet      | 400         |
 | Initia Civitia      | 401         |
