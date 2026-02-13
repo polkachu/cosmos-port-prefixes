@@ -224,6 +224,7 @@
   "pushchain": 330,
   "republic": 331,
   "interval": 332,
+  "reserved": 333,
   "initia_yominet": 400,
   "initia_civitia": 401
 }
