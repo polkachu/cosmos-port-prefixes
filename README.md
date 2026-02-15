@@ -260,6 +260,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Republic            | 331         |
 | Interval            | 332         |
 | Reserved            | 333         |
+| Pocket              | 334         |
 | ....                |             |
 | Initia Yominet      | 400         |
 | Initia Civitia      | 401         |

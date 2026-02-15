@@ -225,6 +225,7 @@
   "republic": 331,
   "interval": 332,
   "reserved": 333,
+  "pocket": 334,
   "initia_yominet": 400,
   "initia_civitia": 401
 }
