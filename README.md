@@ -259,7 +259,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Push Chain          | 330         |
 | Republic            | 331         |
 | Interval            | 332         |
-| Reserved            | 333         |
+| Monolythium         | 333         |
 | Pocket              | 334         |
 | ....                |             |
 | Initia Yominet      | 400         |
