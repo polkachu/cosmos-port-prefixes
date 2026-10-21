@@ -261,6 +261,7 @@ Note: Please do not use 266 as port prefix because this is the default
 | Interval            | 332         |
 | Monolythium         | 333         |
 | Pocket              | 334         |
+| Zvote               | 335         |
 | ....                |             |
 | Initia Yominet      | 400         |
 | Initia Civitia      | 401         |
