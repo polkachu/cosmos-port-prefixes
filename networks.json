@@ -228,5 +228,8 @@
   "pocket": 334,
   "zvote": 335,
   "initia_yominet": 400,
-  "initia_civitia": 401
+  "initia_civitia": 401,
+  "initia_cabal": 402,
+  "initia_echelon": 403,
+  "initia_strat": 404
 }

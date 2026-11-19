@@ -265,6 +265,9 @@ Note: Please do not use 266 as port prefix because this is the default
 | ....                |             |
 | Initia Yominet      | 400         |
 | Initia Civitia      | 401         |
+| Initia Cabal        | 402         |
+| Initia Echelon      | 403         |
+| Initia Strat        | 404         |
 
 ## JSON API
 
